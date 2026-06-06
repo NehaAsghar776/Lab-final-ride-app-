@@ -112,6 +112,16 @@ php artisan migrate
 ## How to Run
 
 ### Step 1 — Start MySQL
+<img width="498" height="233" alt="image" src="https://github.com/user-attachments/assets/f063fec9-3132-44b6-8c74-9d630394e8b4" />
+<img width="496" height="329" alt="image" src="https://github.com/user-attachments/assets/3809ce81-9a5d-49d3-9419-8b4cd0a6dffa" />
+<img width="373" height="170" alt="image" src="https://github.com/user-attachments/assets/e050538a-66e5-4821-a49d-a4484e193f87" />
+<img width="490" height="374" alt="image" src="https://github.com/user-attachments/assets/6b8d91c6-11c9-41a8-964e-fb8c7f0981b6" />
+
+
+<img width="496" height="377" alt="image" src="https://github.com/user-attachments/assets/74e71db0-4adb-4c2a-b22a-3df0ffe71fde" />
+<img width="301" height="399" alt="image" src="https://github.com/user-attachments/assets/d2a2fb61-649b-4072-80ab-5eeb65153629" />
+
+<img width="485" height="284" alt="image" src="https://github.com/user-attachments/assets/8d68988e-d82a-4d40-b2de-4f829d25e93a" />
 
 Open **XAMPP Control Panel** → click **Start** next to MySQL.
 
